@@ -1,0 +1,22 @@
+{
+  "name": "bsc_polygonzkevm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Utsav Jain",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.15.0"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "@openzeppelin/contracts": "^4.9.1",
+    "chai": "^4.3.7",
+    "dotenv": "^16.1.4",
+    "hardhat-deploy": "^0.11.30",
+    "hardhat-deploy-ethers": "^0.3.0-beta.13"
+  }
+}
